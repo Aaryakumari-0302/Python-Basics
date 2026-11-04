@@ -1,0 +1,9 @@
+T=[10,20,30,40,50]
+print(T[0])
+print(T[1:2])
+print(T[2:5])
+T[0]=100
+T.append(25)
+T.remove(30)
+print(len(T))
+print(T)

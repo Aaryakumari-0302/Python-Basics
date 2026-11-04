@@ -1,0 +1,11 @@
+name = str(input("Enter Name:"))
+age = int(input("Enter Age:"))
+city = str(input("Enter City:"))
+course = str(input("Enter Course:"))
+mob = int(input("Enter Mobile No:"))
+
+print("Name:", name)
+print("Age:", age)
+print("City", city)
+print("Course:", course)
+print("Mobile No.:", mob)
